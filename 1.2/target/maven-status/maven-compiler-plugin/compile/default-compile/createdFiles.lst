@@ -1,0 +1,6 @@
+com/thoughtmechanix/assets/controllers/AssetServiceController.class
+com/thoughtmechanix/assets/AssetsApplication.class
+com/thoughtmechanix/assets/services/AssetService.class
+com/thoughtmechanix/assets/model/Organization.class
+com/thoughtmechanix/assets/services/OrganizationService.class
+com/thoughtmechanix/assets/model/Asset.class

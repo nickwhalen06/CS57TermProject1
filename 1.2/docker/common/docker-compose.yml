@@ -1,0 +1,6 @@
+version: '2'
+services:
+  assetservice:
+    image: nwhalen06/e57a:1.2
+    ports:
+    - "8080:8080"

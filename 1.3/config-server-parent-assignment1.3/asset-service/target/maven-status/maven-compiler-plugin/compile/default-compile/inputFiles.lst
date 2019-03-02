@@ -1,0 +1,8 @@
+/Users/nickwhalen/School/CS57/config-server-parent-assignment1.3/asset-service/src/main/java/com/thoughtmechanix/assets/model/Organization.java
+/Users/nickwhalen/School/CS57/config-server-parent-assignment1.3/asset-service/src/main/java/com/thoughtmechanix/assets/repository/AssetRepository.java
+/Users/nickwhalen/School/CS57/config-server-parent-assignment1.3/asset-service/src/main/java/com/thoughtmechanix/assets/Application.java
+/Users/nickwhalen/School/CS57/config-server-parent-assignment1.3/asset-service/src/main/java/com/thoughtmechanix/assets/config/ServiceConfig.java
+/Users/nickwhalen/School/CS57/config-server-parent-assignment1.3/asset-service/src/main/java/com/thoughtmechanix/assets/controllers/AssetServiceController.java
+/Users/nickwhalen/School/CS57/config-server-parent-assignment1.3/asset-service/src/main/java/com/thoughtmechanix/assets/services/AssetService.java
+/Users/nickwhalen/School/CS57/config-server-parent-assignment1.3/asset-service/src/main/java/com/thoughtmechanix/assets/model/Asset.java
+/Users/nickwhalen/School/CS57/config-server-parent-assignment1.3/asset-service/src/main/java/com/thoughtmechanix/assets/services/OrganizationService.java
